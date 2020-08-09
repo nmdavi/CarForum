@@ -1,6 +1,6 @@
 # CarForum
 
-API de Fórum de Carros em ASP.NET WEB API
+API de Fórum de Carros em ASP.NET WEB API e SQL Server
 
 <b>Biblioteca usadas</b>
 
