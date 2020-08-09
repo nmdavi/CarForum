@@ -2,15 +2,15 @@
 
 API de Fórum de Carros em ASP.NET WEB API
 
-Biblioteca usadas
+<b>Biblioteca usadas</b>
 
-ORM: Fluent NHibernate
-Validação: Fluent Validation
-DI: Autofac
-Autenticação: OWIN
-Documentação: Swagger
-Teste: xUnit.
-Mock: MOQ
+ORM: Fluent NHibernate <br>
+Validação: Fluent Validation <br>
+DI: Autofac <br>
+Autenticação: OWIN <br>
+Documentação: Swagger <br>
+Teste: xUnit <br>
+Mock: MOQ <br>
 
 Contato: davimendonca@protonmail.com
 
