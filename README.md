@@ -1,17 +1,13 @@
 # CarForum
 
-API de Fórum de Carros em ASP.NET WEB API e SQL Server
+Car Forum API in ASP.NET WEB API and SQL Server
 
-<b>Biblioteca usadas</b>
+<b>Used libraries</b>
 
 ORM: Fluent NHibernate <br>
-Validação: Fluent Validation <br>
+Validation: Fluent Validation <br>
 DI: Autofac <br>
-Autenticação: OWIN <br>
-Documentação: Swagger <br>
-Teste: xUnit <br>
+Authentication: OWIN <br>
+Documentation: Swagger <br>
+Test: xUnit <br>
 Mock: MOQ <br>
-
-Contato: davimendonca@protonmail.com
-
-LinkedIn: www.linkedin.com/in/davimendonca
